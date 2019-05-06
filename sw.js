@@ -2,13 +2,14 @@ var CACHE_NAME = 'NB-Static-Cache-v1';
 var urlsToCache = [
     '/',
   '/index.html',
-  'NewsScript.js',
-  'bootstrap.min.js',
-  'bootstrap.min.css',
-  'style.css',
-  'jquery3.2.1.min.js',
-  'fontawesome.js',
-  'fontawesome.css'
+  '/NewsScript.js',
+  '/bootstrap.min.js',
+   '/NBIndexedDB.js'
+  '/bootstrap.min.css',
+  '/style.css',
+  '/jquery3.2.1.min.js',
+  '/fontawesome.js',
+  '/fontawesome.css'
 ];
 
 
