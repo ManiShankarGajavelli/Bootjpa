@@ -9,7 +9,9 @@ var urlsToCache = [
   './style.css',
   './jquery3.2.1.min.js',
   './fontawesome.js',
-  './fontawesome.css'
+  './fontawesome.css',  
+  './images/icons/icon-72x72.png',
+  './font-awesome-css.min.css'
 ];
 
 
