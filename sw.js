@@ -4,7 +4,7 @@ var urlsToCache = [
   '/index.html',
   '/NewsScript.js',
   '/bootstrap.min.js',
-   '/NBIndexedDB.js'
+   '/NBIndexedDB.js',
   '/bootstrap.min.css',
   '/style.css',
   '/jquery3.2.1.min.js',
