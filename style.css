@@ -96,7 +96,6 @@ aside .content-footer>img {
 .user-small-img{cursor: pointer;}
 
 .content-footer:hover .user-details  {
-    display: block;
 }
 
 .content-footer .user-details .user-img{width: 100px;height:100px;float: left;}
